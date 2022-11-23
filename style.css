@@ -1,1 +1,22 @@
 /* CSS Style Sheet */
+body {
+    margin: auto;
+    background-color: aqua;
+}
+button {
+    width: 300px;
+    margin-top: 10px;
+    background-color: aqua;
+}
+
+input {
+    width: 300px;
+}
+
+div {
+    background-color: aliceblue;
+    width: 350px;
+    padding: 0px 25px 25px 25px;
+    border-radius: 30px;
+    margin: auto;
+}
