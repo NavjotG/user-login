@@ -14,7 +14,7 @@ function PasswordL() {
     alert("Username Incorrect");
   } else if (usernames === "admin" && passwords !== "1234") {
     alert("Invalid Password");
-  } else {
-    alert("Input Something");
+  } else if (usernames !== "admin" && passwords !== "1234") {
+    alert("Please input your username/password correctly.");
   }
 }
