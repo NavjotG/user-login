@@ -4,19 +4,25 @@ body {
     background-color: aqua;
 }
 button {
-    width: 300px;
-    margin-top: 10px;
+    width: 318px;
+    margin-top: 20px;
     background-color: aqua;
+    padding: 5px;
 }
 
 input {
     width: 300px;
+    padding: 7px;
 }
 
 div {
     background-color: aliceblue;
     width: 350px;
-    padding: 0px 25px 25px 25px;
+    padding: 0px 25px 30px 50px;
     border-radius: 30px;
     margin: auto;
+}
+
+h1 {
+    padding-top: 20px;
 }
